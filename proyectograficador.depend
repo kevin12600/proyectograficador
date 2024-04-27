@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714171400 source:c:\users\dell latitude 5401\desktop\progra1\tarea\proyectograficador\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cmath>
+
