@@ -48,3 +48,5 @@ dibujar.
  dibujar.
  - Importante:
    Antes de dibujar otra figura mueve el cursor a una parte limpia de la pantalla
+   ## Autor
+   Kevin Ayapan 
